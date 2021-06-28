@@ -180,3 +180,6 @@ localhost:8000
 
 -> php artisan vendor:publish --provider="JeroenNoten\LaravelAdminLte\ServiceProvider" --tag=assets
  
+-> php artisan make:seeder UsersTableSeeder
+
+-> php artisan db:seed

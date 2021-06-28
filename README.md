@@ -1,62 +1,83 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+## Apresentação:
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+- [Currículo Lattes](http://lattes.cnpq.br/7594653859194302)
 
-## About Laravel
+ - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- [Instagram](https://www.instagram.com/alissonandradercc)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Github](https://github.com/alissonandrade2020/)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- [Rocketseat](https://app.rocketseat.com.br/me/alissondeandradearaujo)
 
-## Learning Laravel
+## CONHEÇA MAIS SOBRE O TRABALHO E CONHECIMENTO DO DEV(Alisson de Andrade Araújo):
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+ - [Curriculum - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/curriculo/)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- [Site de Apresentação de Alisson de Andrade Araújo](http://alissondeandradearaujo.000webhostapp.com/)
 
-## Laravel Sponsors
+- [Site Light e Dark](https://sistemalightdark-iota.vercel.app/)
+ 
+- [Site de Exercícios - Moveit](https://nlw04reactmoveit.vercel.app/)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+ - [Site de Listagem - Ignite desafio 01](https://iignite01desafio.vercel.app/)
 
-### Premium Partners
+- [Site DtMoney - Ignite 2](https://dtmoneyignite.vercel.app/)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+- [Site Dashgo - Ignite 3](https://dashgoalisson.vercel.app/)
 
-## Contributing
+- [Site WatchMe Trilha Extra - Ignite 2](https://ignitewatchmeextra.vercel.app/)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- [Site IgNews - Ignite Chapter 3](ignewsalisson.vercel.app/)
+ 
+-  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://igniterepositorios.vercel.app/)
+ 
+- [Site de Cadastro feito com PHP - Alisson de Andrade Araújo](https://alissonandradesistema.000webhostapp.com/silex/)
+ 
+ - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
+ 
+ - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+  
+ - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
+ 
+  - [PODCASTR - Tudo sobre audio - NLW5](https://podcastralisson.vercel.app)
+ 
+  - [PROFFY - Encontre seu Professor ou tenha aula online](https://proffyalissonandrade.netlify.app)
+  
+  - [HAPPY - Encontre um orfanato, Muitas crianças estão esperando a sua visita :)](https://alissonandradehappynlw3.netlify.app)
+  
+ - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
+ 
+ - [Covid-19](https://alissonandradesistema.000webhostapp.com/covid-19/)
+ 
+  - [Féliz Aniversário](https://alissonandradesistema.000webhostapp.com/felizaniversario/)
+  
+  - [Féliz Dia das Mães](https://alissonandradesistema.000webhostapp.com/felizdiadasmaes/)
 
-## Code of Conduct
+ - [Féliz Páscoa](https://alissonandradesistema.000webhostapp.com/felizpascoa)
+ 
+  - [Clone do Netflix](https://alissonandradesistema.000webhostapp.com/netflixclone/)
+    
+  - [Clone do Discord](https://alissondiscord.netlify.app/)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- [Sitestema de Cadastro de Empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/react/)
 
-## Security Vulnerabilities
+ - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- [Sistema de Achar TINDev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
-## License
+- [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
+ 
+- [Site e sistema de loja virtual - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/lojavirtual)
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- [Site e sistema - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/sistemas/)
+
+- [Sistema de Cadastro de Sala para alugar espaço para reuniões de empresas - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativeaircnc)
+
+- [Sitestema de Apresentação do Trabalho ESAT/ESPEP - cadastro de alunos](https://alissondeaaraujo.000webhostapp.com/index.html)
+
+- [Site de Apresentação 2 de Alisson de Andrade Araújo](https://alissodeaaraujo.000webhostapp.com/index.html)
+
+:vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
+
+

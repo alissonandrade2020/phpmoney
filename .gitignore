@@ -3,8 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
-anotacoes.txt
+/.env
+anotacoes
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml

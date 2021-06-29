@@ -3,6 +3,7 @@
 return [
 
     'full_name'                   => 'Nome completo',
+    'cpf'                         => 'Digite seu CPF',
     'email'                       => 'Email',
     'password'                    => 'Password',
     'retype_password'             => 'Ripeti password',

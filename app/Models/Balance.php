@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use DB;
-use App\User;
+use App\Models\User;
 
 class Balance extends Model
 {

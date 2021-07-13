@@ -233,12 +233,12 @@ return [
         ],
         [
             'text' => 'Financeiro',
-            'icon' => 'money',
+            'icon' => 'fa fa-credit-card',
             'submenu' => [
                 [
                     'text'  => 'Saldo',
                     'url'   => 'admin/balance',
-                    'icon'  => 'credit-card-alt'
+                    'icon'  => 'fa-money'
                 ],
                 [
                     'text'  => 'Histórico',

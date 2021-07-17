@@ -15,6 +15,10 @@
         <input type="text" value="{{ auth()->user()->name }}" name="name" placeholder="Nome" class="form-control">
     </div>
     <div class="form-group">
+        <label for="cpf">CPF</label>
+        <input type="cpf" value="{{ auth()->user()->cpf }}" name="cpf" placeholder="CPF" class="form-control" disabled>
+    </div>
+    <div class="form-group">
         <label for="email">E-mail</label>
         <input type="email" value="{{ auth()->user()->email }}" name="email" placeholder="E-mail" class="form-control" disabled>
     </div>

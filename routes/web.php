@@ -19,8 +19,8 @@ Route::group(['middleware' => ['auth'], 'namespace' => 'App\Http\Controllers\Adm
     Route::get('/', 'AdminController@index')->name('admin.home');
 });
 
-Route::post('atualizar-perfil', 'Admin\UserController@profileUpdate')->name('profile.update')->middleware('auth');
-Route::get('meu-perfil', 'Admin\UserController@profile')->name('profile')->middleware('auth');
+Route::post('atualizar-perfil', 'App\Http\Controllers\Admin\UserController@profileUpdate')->name('profile.update')->middleware('auth');
+Route::get('meu-perfil', 'App\Http\Controllers\Admin\UserController@profile')->name('profile')->middleware('auth');
 
 Route::get('/', 'App\Http\Controllers\Site\SiteController@index')->name('home');
 

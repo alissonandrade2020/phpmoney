@@ -1,6 +1,6 @@
 <?php
 
-Route::group(['middleware' => ['auth'], 'namespace' => 'App\\Http\\Controllers\\Admin', 'prefix' => 'admin'], function(){
+Route::group(['middleware' => ['auth'], 'namespace' => 'App\Http\Controllers\Admin', 'prefix' => 'admin'], function(){
 
     Route::any('historic-search', 'BalanceController@searchHistoric')->name('historic.search');
     Route::get('historic', 'BalanceController@historic')->name('admin.historic');

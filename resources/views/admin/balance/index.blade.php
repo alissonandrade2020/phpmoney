@@ -35,9 +35,9 @@
                         <h3>R$ {{ number_format($amount, 2, ',', '') }}</h3>
                     </div>
                     <div class="icon">
-                        <i class="ion ion-cash"></i>
+                        <i class="fas fa-money-bill-wave"></i>
                     </div>
-                    <a href="#" class="small-box-footer">Histórico <i class="fa fa-arrow-circle-right"></i></a>
+                        <a href="#" class="small-box-footer">Histórico <i class="fa fa-arrow-circle-right"></i></a>
                     </div>
         </div>
     </div>

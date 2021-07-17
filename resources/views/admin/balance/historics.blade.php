@@ -7,7 +7,7 @@
 
     <ol class="breadcrumb">
         <li><a href="">Dashboard</a></li>
-        <li><a href="">Histórico</a></li>
+        <li><a href=""> Histórico</a></li>
     </ol>
 @stop
 
@@ -27,6 +27,7 @@
 
                 <button type="submit" class="btn btn-primary">Pesquisar</button>
             </form>
+            <br>
         </div>
         <div class="box-body">
             <table class="table table-bordered table-hover">

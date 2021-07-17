@@ -16,13 +16,13 @@ Route::group(['middleware' => ['auth'], 'namespace' => 'App\Http\Controllers\Adm
     Route::get('deposit', 'BalanceController@deposit')->name('balance.deposit');
     Route::get('balance', 'BalanceController@index')->name('admin.balance');
 
-    Route::get('/', 'App\Http\Controllers\Admin\AdminController@index')->name('admin.home');
+    Route::get('/', 'AdminController@index')->name('admin.home');
 });
 
 Route::post('atualizar-perfil', 'Admin\UserController@profileUpdate')->name('profile.update')->middleware('auth');
 Route::get('meu-perfil', 'Admin\UserController@profile')->name('profile')->middleware('auth');
 
-Route::get('/admin', 'App\Http\Controllers\Site\SiteController@index')->name('home');
+Route::get('/', 'App\Http\Controllers\Site\SiteController@index')->name('home');
 
 Auth::routes();
 

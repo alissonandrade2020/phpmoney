@@ -233,17 +233,17 @@ return [
         ],
         [
             'text' => 'Financeiro',
-            'icon' => 'fa fa-credit-card',
+            'icon' => 'fas fa-hand-holding-usd',
             'submenu' => [
                 [
                     'text'  => 'Saldo',
                     'url'   => 'admin/balance',
-                    'icon'  => 'fa-money'
+                    'icon'  => 'fa fa-credit-card'
                 ],
                 [
                     'text'  => 'Histórico',
                     'url'   => 'admin/historic',
-                    'icon'  => 'history'
+                    'icon'  => 'fa fa-history'
                 ]
             ]
         ]

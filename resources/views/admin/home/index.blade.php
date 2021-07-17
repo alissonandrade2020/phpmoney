@@ -8,4 +8,6 @@
 
 @section('content')
     <p>You are logged in!</p>
+
+    <p>Welcome to the Admin Panel!</p>
 @stop

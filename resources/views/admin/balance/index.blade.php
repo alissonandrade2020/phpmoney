@@ -26,6 +26,8 @@
                     <i class="fa fa-exchange" aria-hidden="true"></i>
                      Transferir
                 </a>
+                <br>
+                <br>
             @endif
         </div>
         <div class="box-body">
@@ -37,7 +39,7 @@
                     <div class="icon">
                         <i class="fas fa-money-bill-wave"></i>
                     </div>
-                        <a href="#" class="small-box-footer">Histórico <i class="fa fa-arrow-circle-right"></i></a>
+                        <a href="{{ route('historic.search') }}" class="small-box-footer">Histórico <i class="fa fa-arrow-circle-right"></i></a>
                     </div>
         </div>
     </div>

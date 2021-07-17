@@ -16,7 +16,7 @@
     </div>
     <div class="form-group">
         <label for="email">E-mail</label>
-        <input type="email" value="{{ auth()->user()->email }}" name="email" placeholder="E-mail" class="form-control">
+        <input type="email" value="{{ auth()->user()->email }}" name="email" placeholder="E-mail" class="form-control" disabled>
     </div>
     <div class="form-group">
         <label for="password">Senha</label>

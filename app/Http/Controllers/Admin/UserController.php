@@ -31,7 +31,7 @@ class UserController extends Controller
             if ($user->image)
                 $name = $user->image;
             else
-                $name = $user->id.kebab_case($user->name);
+                $name = $user->id.$user->name;
             
             $extenstion = $request->image->extension();
             $nameFile = "{$name}.{$extenstion}";
